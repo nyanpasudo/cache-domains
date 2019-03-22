@@ -21,6 +21,11 @@
 			"domain_files": ["daybreak.txt"]
 		},
 		{
+			"name": "ffxiv",
+			"description": "CDN for Final Fantasy XIV",
+			"domain_files": ["ffxiv.txt"]
+		},
+		{
 			"name": "frontier",
 			"description": "CDN for frontier games",
 			"domain_files": ["frontier.txt"]
